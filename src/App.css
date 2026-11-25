@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  text-align: center;
+}
+
+header {
+  background: #243b55;
+  color: white;
+  padding: 25px;
+}
+
+.card {
+  background: white;
+  margin: 25px auto;
+  padding: 20px;
+  width: 70%;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px #ccc;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 5px;
+}
+
+footer {
+  background: #243b55;
+  color: white;
+  padding: 15px;
+}
